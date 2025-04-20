@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes</title>
+    <link>https://badembed.github.io/</link>
+    <description>Recent content on Notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Apr 2025 12:52:51 +0300</lastBuildDate>
+    <atom:link href="https://badembed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://badembed.github.io/docs/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/intro/</guid>
+      <description>&lt;p&gt;Welcome to my docs!&lt;/p&gt;&#xA;&lt;p&gt;Here is my embedded slide:&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSTIjcMwh5oykEUGj1JLjX6loys6a6UTh4iZAu-spRtEU-Fe8pfeLcXsw5JwexoH-Hpm8lq_ncK9_y9/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://badembed.github.io/posts/test/</link>
+      <pubDate>Sun, 20 Apr 2025 12:52:51 +0300</pubDate>
+      <guid>https://badembed.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
