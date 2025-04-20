@@ -6,21 +6,69 @@
     <description>Recent content on Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 12:52:51 +0300</lastBuildDate>
     <atom:link href="https://badembed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro</title>
-      <link>https://badembed.github.io/docs/intro/</link>
+      <title>ARM Architecture Introduction (part 1)</title>
+      <link>https://badembed.github.io/docs/embed_lec1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://badembed.github.io/docs/intro/</guid>
-      <description>&lt;p&gt;Welcome to my docs!&lt;/p&gt;&#xA;&lt;p&gt;Here is my embedded slide:&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSTIjcMwh5oykEUGj1JLjX6loys6a6UTh4iZAu-spRtEU-Fe8pfeLcXsw5JwexoH-Hpm8lq_ncK9_y9/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+      <guid>https://badembed.github.io/docs/embed_lec1/</guid>
+      <description>&lt;h1 id=&#34;arm-architecture-introduction-part-1&#34;&gt;&#xA;  ARM Architecture Introduction (part 1)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#arm-architecture-introduction-part-1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTwo7Btey7i3G7EKOhXrELHLg9-e_iH10aq25c2UTgo9K4SwMjooLU-C0CbiYfEGndrWGDfa6MfUpKo/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/qKProsN8RFc?si=YQmjtLllZfkb2zBg&#34;&gt;https://youtu.be/qKProsN8RFc?si=YQmjtLllZfkb2zBg&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test</title>
-      <link>https://badembed.github.io/posts/test/</link>
-      <pubDate>Sun, 20 Apr 2025 12:52:51 +0300</pubDate>
-      <guid>https://badembed.github.io/posts/test/</guid>
-      <description></description>
+      <title>ARM Architecture Introduction (part 2)</title>
+      <link>https://badembed.github.io/docs/embed_lec2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec2/</guid>
+      <description>&lt;h1 id=&#34;arm-architecture-introduction-part-2&#34;&gt;&#xA;  ARM Architecture Introduction (part 2)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#arm-architecture-introduction-part-2&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQuxk3cl51zBf58yzGxuejKenoPePcDOk1Go3fZ8WuMlL-pOeUyXUt2YKc4Ad5tx9wtM7-sPkpIGgP7/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/Lh9Xo7Mj2iw?si=H6U-oxDV1s9ZxlbZ&#34;&gt;https://youtu.be/Lh9Xo7Mj2iw?si=H6U-oxDV1s9ZxlbZ&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ARM Architecture Introduction (part 3)</title>
+      <link>https://badembed.github.io/docs/embed_lec3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec3/</guid>
+      <description>&lt;h1 id=&#34;arm-architecture-introduction-part-3&#34;&gt;&#xA;  ARM Architecture Introduction (part 3)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#arm-architecture-introduction-part-3&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vT83EyP2PNkRZCstIhQnBxcNF8fOiuOJhlckG7g0AlrrKhsBRdq0fcBBo071vuXesP-jGdfP1ckg1HR/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/Wrf8TLIwMzU?si=8JzYHHFfhZ7IDdQq&#34;&gt;https://youtu.be/Wrf8TLIwMzU?si=8JzYHHFfhZ7IDdQq&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Course Introduction</title>
+      <link>https://badembed.github.io/docs/embed_lec4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec4/</guid>
+      <description>&lt;h1 id=&#34;course-introduction&#34;&gt;&#xA;  Course Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#course-introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR8_50SCVNVAULstJpaE4C_Hhlv4WNSxGHZ5vAj2a-u7dO-Lk3AL5o7EZ1AVTBdwK8trtv6ckGUTC4U/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Embedded OS design</title>
+      <link>https://badembed.github.io/docs/embed_lec7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec7/</guid>
+      <description>&lt;h1 id=&#34;embedded-os-design&#34;&gt;&#xA;  Embedded OS design&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#embedded-os-design&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQzt7El5Ei2EUe2I2i6r7b5hbwN8yv5XZyNkWcHgG1CLInPWey4sVieI3GV75MOdf2HrDq1GHKKdcmt/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/JOGYXOc_tK0?si=xizmUxDBIgIb17tN&#34;&gt;https://youtu.be/JOGYXOc_tK0?si=xizmUxDBIgIb17tN&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embedded OS IPC</title>
+      <link>https://badembed.github.io/docs/embed_lec8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec8/</guid>
+      <description>&lt;h1 id=&#34;embedded-os-ipc&#34;&gt;&#xA;  Embedded OS IPC&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#embedded-os-ipc&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vT-JKVyvlDfttfFzt12KHq4rJvrsnWiT36nd4rC4t2mwOk7VOvynADuPU-Y4bEmkpLsjWAlyHKZdwnq/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/TLJvy1560UE?si=9Wvmoz4POb_jpagq&#34;&gt;https://youtu.be/TLJvy1560UE?si=9Wvmoz4POb_jpagq&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>STM32F746g from scratch</title>
+      <link>https://badembed.github.io/docs/embed_lec5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec5/</guid>
+      <description>&lt;h1 id=&#34;stm32f746g-from-scratch&#34;&gt;&#xA;  STM32F746g from scratch&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#stm32f746g-from-scratch&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQcTl1L97tuFahy2HXD2D2Dg5bdOkc9SD7x-KQdF_oppBKg50oyOTH9k-m84S-O7eflA_SgytqzCmp8/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/TzJv0hq2RZs?si=9__2IOMfJWHnvgZK&#34;&gt;https://youtu.be/TzJv0hq2RZs?si=9__2IOMfJWHnvgZK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>STM32F746g HAL</title>
+      <link>https://badembed.github.io/docs/embed_lec6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec6/</guid>
+      <description>&lt;h1 id=&#34;stm32f746g-hal&#34;&gt;&#xA;  STM32F746g HAL&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#stm32f746g-hal&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSjJpVCKNjfaoUxLwW_kT9utIblaYjmBAODsW5eCClT1Q0LjF5QH5iLzWDREg7ugYU56BS96e9HwRS8/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Memory</title>
+      <link>https://badembed.github.io/docs/embed_lec9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://badembed.github.io/docs/embed_lec9/</guid>
+      <description>&lt;h1 id=&#34;virtual-memory&#34;&gt;&#xA;  Virtual Memory&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#virtual-memory&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRYzZpf9VQtFlZ42vxYrOsLkvTh3aB7d3K0AL35oU0SfcPj5Y3UodbM8pOEYAK_EpLmXFiD_9RH3CnP/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;lecture-recording&#34;&gt;&#xA;  Lecture Recording&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lecture-recording&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/ShAKVMs0kho?si=Sz1dRk8Y6EnQneDH&#34;&gt;https://youtu.be/ShAKVMs0kho?si=Sz1dRk8Y6EnQneDH&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
